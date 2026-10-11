@@ -36,8 +36,8 @@ Light monitor
 * **Display:** SSD1306 0.96" I2C OLED *
 * **Motion/Tilt:** MPU6050 / GY-521 6-Axis IMU*
 * **Climate:** DHT11 Temperature & Humidity Sensor
-* **Light:** LDR (Light Dependent Resistor) + 10kΩ pull-down resistor
-* **Status Indicator:** RGB LED (Common Cathode) + inline resistors (220Ω / 100Ω / 100Ω)
+* **Light:** LDR (Light Dependent Resistor) + 10k pull-down resistor
+* **Status Indicator:** RGB LED (Common Cathode) + inline resistors (220/ 100 / 100)
 * **Audio Alerts:** Passive Buzzer driven by an NPN transistor & flyback protection diode
 * **Buttons:** 2 Tactile Buttons
 * **Note on 3D Renders:** The SSD1306 OLED and MPU6050 IMU are external plug-in sub-modules. They will not be visible on standard 3D PCB fabrication renders.
