@@ -26,7 +26,7 @@
 | [Pin Headers](https://www.aliexpress.com/item/1005007724531950.html) | Connect the OLED and MPU6050 modules to the PCB. They make assembly and replacement easier, provided their pin spacing and orientation match your KiCad footprints. | 1 | $1.16 | $1.16 | [AliExpress](https://www.aliexpress.com/item/1005007724531950.html) |
 | [Pcb](https://cart.jlcpcb.com/shopcart/cart) | Holds the components in the correct positions and connects them electrically according to your KiCad schematic. It is the physical circuit board that turns your design into a working device. | 1 | $2.68 | $2.68 | [Jlcpcb](https://cart.jlcpcb.com/shopcart/cart) |
 | **Parts subtotal** | — | — | — | **$44.85** | — |
-| **Tax & shipping** | — | — | — | **$5.28** | — |
-| **Total** | — | — | — | **$50.13** | — |
+| **Tax & shipping** | — | — | — | **$14.23** | — |
+| **Total** | — | — | — | **$59.08** | — |
 
-**$20.13 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$29.08 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
